@@ -1,3 +1,4 @@
+[![Gitter](https://badges.gitter.im/etherdeltastake/community.svg)](https://gitter.im/etherdeltastake/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 # DEX Curator
 Submit your site with template:
 ```
